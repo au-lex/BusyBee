@@ -12,8 +12,8 @@ closeMenu.addEventListener("click", ()=> {
     menu.classList.remove("active")
 })
 
-links.forEach(el => {
-    el.addEventListener('click',()=> {
-        menu.classList.remove("active")
-    })
-});
+// links.forEach(el => {
+//     el.addEventListener('click',()=> {
+//         menu.classList.remove("active")
+//     })
+// });
